@@ -24,6 +24,6 @@ public class WordList
                 wordsToRemove.add(word);
             }
         }
-        words.removeAll(wordsToRemove);
+        myList.removeAll(wordsToRemove);
     }
 }
